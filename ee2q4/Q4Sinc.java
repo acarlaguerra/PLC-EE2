@@ -1,4 +1,4 @@
-// Q4: Implementação síncrona em Java (pingping)
+// Q4: Implementação síncrona em Java (pingpong)
 package ee2q4;
 
 public class Q4Sinc {
